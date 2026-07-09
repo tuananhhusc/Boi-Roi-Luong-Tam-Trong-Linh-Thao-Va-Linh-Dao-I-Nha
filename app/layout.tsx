@@ -20,7 +20,7 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://dongten.net'),
+  metadataBase: new URL('https://tuananhhusc.github.io/Boi-Roi-Luong-Tam-Trong-Linh-Thao-Va-Linh-Dao-I-Nha'),
   title: "Bối Rối Lương Tâm Trong Linh Thao Và Linh Đạo I-Nhã",
   description:
     "Báo cáo nghiên cứu chuyên sâu về bối rối lương tâm (scrupulosity) trong Linh Thao và Linh Đạo I-Nhã dưới lăng kính thần học, mục vụ và tâm lý học. Phân tích sáu ghi chú của Thánh I-nhã (SE 345-351), đối chiếu với OCD tôn giáo, và phương pháp đồng hành thiêng liêng.",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     siteName: "Dòng Tên Việt Nam",
     images: [
       {
-        url: '/og-image.jpg', // Placeholder for actual OG image
+        url: '/Boi-Roi-Luong-Tam-Trong-Linh-Thao-Va-Linh-Dao-I-Nha/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'Bối Rối Lương Tâm Trong Linh Thao Và Linh Đạo I-Nhã',
